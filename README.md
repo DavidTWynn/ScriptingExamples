@@ -1,2 +1,2 @@
 # ScriptingExamples
-Repo of different scripts that can be used for automation
+Repo of different scripts that can be used for making things easier
