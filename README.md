@@ -12,7 +12,7 @@ pip install netmiko
 ### Prerequisites
 
 You will need access to a lab, linux, and Python3. These were tested on Ubuntu 20.04.
-For netconf and restconf look up the Cisco guide on enabling it for your platform
+SSH, NETCONF, and RESTCONF enabled.
 
 ## Installation	
 
