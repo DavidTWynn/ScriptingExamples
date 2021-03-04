@@ -1,4 +1,4 @@
-# Repo of scripts for making things easier. Test these in a lab and work to make them better.
+# Repo of scripts for learning and tinkering with
 
 Compilation of scripts for working with Cisco and Juniper network gear using Paramiko, Netmiko, and Napalm. 
 
