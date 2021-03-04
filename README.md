@@ -12,6 +12,7 @@ pip install netmiko
 ### Prerequisites
 
 You will need access to a lab, linux, and Python3. These were tested on Ubuntu 20.04.
+For netconf and restconf look up the Cisco guide on enabling it for your platform
 
 ## Installation	
 
@@ -22,6 +23,7 @@ git clone https://github.com/DavidTWynn/ScriptingExamples.git
 ```
 pip list | grep netmiko    -- Check for netmiko
 pip list | grep paramiko   -- Check for paramiko
+pip list | grep napalm     -- Check for napalm
 python3			   -- Verify the import of netmiko and paramiko
 from netmiko import ConnectHandler
 import paramiko
